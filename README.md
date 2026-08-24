@@ -14,14 +14,9 @@ first install.
 ## What it does
 
 - Point it at a folder. It reads what is in it, then watches for what arrives.
-- Search while it is still working, and after you close the window — it keeps going from
-  the tray.
-- Choose a model: 610 MB and fast, or 4.6 GB and best at finding things. Switching back
-  costs nothing, and you choose which drive the download lands on.
-- Reads **HEIC** from your iPhone, as well as JPEG, PNG, WebP, TIFF, BMP, GIF and JPEG XL.
-  HEIC uses Windows' own codec, so if your PC is missing it PhotoRecall says which two free
-  extensions to install rather than quietly skipping those photos.
-- It tells you what it could not read, and why.
+- Choose a model to analyze your photos (Fast, Medium and Slow).
+- Reads JPEG, PNG, WebP, TIFF, BMP, GIF and JPEG XL.
+  To read HEIC files, your system must have an HEIC codec installed.
 
 ## Built with
 
@@ -37,8 +32,7 @@ running on [ONNX Runtime](https://onnxruntime.ai), on the processor or the graph
 ## Status
 
 **0.1.0** — the first release. Searches your library by description, reads HEIC as well
-as the usual formats, and shows only the photos that actually match. Windows only in
-practice.
+as the usual formats, and shows only the photos that actually match. Current supports Windows only.
 
 ## Licence
 
