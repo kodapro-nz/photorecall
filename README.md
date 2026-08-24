@@ -8,8 +8,7 @@ Everything runs on your computer. Your photos are never uploaded.
 
 ### [Download the latest release →](https://github.com/kodapro-nz/photorecall/releases/latest)
 
-Windows. Per-user installer, no administrator rights. Unsigned, so SmartScreen warns on
-first install.
+For Windows OS. Currently unsigned, so SmartScreen will warn on first install.
 
 ## What it does
 
