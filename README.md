@@ -18,6 +18,11 @@ first install.
 - Reads JPEG, PNG, WebP, TIFF, BMP, GIF and JPEG XL.
   To read HEIC files, your system must have an HEIC codec installed.
 
+## Screenshots
+
+<img width="1169" height="811" alt="image" src="https://github.com/user-attachments/assets/db4a9188-35e8-418e-93e2-bab688049eef" />
+Photo search screen
+
 ## Built with
 
 **Rust**, end to end — eight engine crates, a command-line tool, and a
