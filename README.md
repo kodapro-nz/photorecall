@@ -43,6 +43,8 @@ as the usual formats, and shows only the photos that actually match. Current sup
 
 Copyright (c) 2026 Kodapro. All Rights Reserved.
 
+See [LICENSE](LICENSE)
+
 This software and associated documentation files (the "Software") are proprietary 
 and confidential. You are hereby granted a personal, non-exclusive, non-transferable 
 license to download, install, and execute the Software solely for its intended purpose.
@@ -53,9 +55,21 @@ You may NOT:
 3. Rent, lease, sell, sublicense, or commercially exploit the Software.
 4. Redistribute or re-host the Software binaries on third-party channels without prior written permission.
 
-CLIP models are separately licensed (Apache-2.0 and MIT).
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-PhotoRecall is provided as is, with no warranty: Kodapro accepts no responsibility for any
-loss or damage arising from its use. It searches a copy of what it has read and is **not a
-backup**, and its matches come from a machine-learning model that is often wrong — check a
-photo yourself before acting on a search.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+The machine-learning models PhotoRecall downloads are not covered by this
+licence. They are Apache-2.0 (SigLIP 2) and MIT (OpenAI CLIP); see
+THIRD-PARTY-NOTICES.html and tools/model_notices/ for the full text and
+attribution. THIRD-PARTY-NOTICES.html also lists every Rust dependency and its
+licence, and is shipped with the installer.
