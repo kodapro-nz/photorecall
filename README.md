@@ -29,8 +29,7 @@ first install.
 [Tauri](https://tauri.app) window whose front end is three static files with no bundler.
 
 **[LanceDB](https://lancedb.com)** for storage and search: vectors, paths and camera
-metadata in one embedded table. Search is exact rather than approximate — every vector is
-compared, every time, so nothing is quietly missed.
+metadata in one embedded table.
 
 Photos are understood by [OpenCLIP](https://github.com/mlfoundations/open_clip) models
 running on [ONNX Runtime](https://onnxruntime.ai), on the processor or the graphics card.
@@ -40,15 +39,6 @@ running on [ONNX Runtime](https://onnxruntime.ai), on the processor or the graph
 **0.1.0** — the first release. Searches your library by description, reads HEIC as well
 as the usual formats, and shows only the photos that actually match. Windows only in
 practice.
-
-## For developers
-
-`photorecall` is the same engine from a terminal (`index`, `search`, `status`, `compare`,
-all with `--json`), installed beside the window. [CHANGELOG.md](CHANGELOG.md) records what
-each version did.
-
-The source is not public. This repository is where PhotoRecall is released, not where it
-is written.
 
 ## Licence
 
