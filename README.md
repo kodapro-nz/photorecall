@@ -41,7 +41,19 @@ as the usual formats, and shows only the photos that actually match. Current sup
 
 ## Licence
 
-MIT — see [LICENSE](LICENSE). Models are separately licensed (Apache-2.0 and MIT).
+Copyright (c) 2026 Kodapro. All Rights Reserved.
+
+This software and associated documentation files (the "Software") are proprietary 
+and confidential. You are hereby granted a personal, non-exclusive, non-transferable 
+license to download, install, and execute the Software solely for its intended purpose.
+
+You may NOT:
+1. Modify, translate, adapt, or create derivative works of the Software.
+2. Reverse engineer, decompile, disassemble, or attempt to derive the source code.
+3. Rent, lease, sell, sublicense, or commercially exploit the Software.
+4. Redistribute or re-host the Software binaries on third-party channels without prior written permission.
+
+CLIP models are separately licensed (Apache-2.0 and MIT).
 
 PhotoRecall is provided as is, with no warranty: Kodapro accepts no responsibility for any
 loss or damage arising from its use. It searches a copy of what it has read and is **not a
