@@ -44,27 +44,6 @@ Copyright (c) 2026 Kodapro. All Rights Reserved.
 
 See [LICENSE](LICENSE)
 
-This software and associated documentation files (the "Software") are proprietary 
-and confidential. You are hereby granted a personal, non-exclusive, non-transferable 
-license to download, install, and execute the Software solely for its intended purpose.
-
-You may NOT:
-1. Modify, translate, adapt, or create derivative works of the Software.
-2. Reverse engineer, decompile, disassemble, or attempt to derive the source code.
-3. Rent, lease, sell, sublicense, or commercially exploit the Software.
-4. Redistribute or re-host the Software binaries on third-party channels without prior written permission.
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
 ---
 
 The machine-learning models PhotoRecall downloads are not covered by this
