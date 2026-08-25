@@ -43,11 +43,3 @@ as the usual formats, and shows only the photos that actually match. Current sup
 Copyright (c) 2026 Kodapro. All Rights Reserved.
 
 See [LICENSE](LICENSE)
-
----
-
-The machine-learning models PhotoRecall downloads are not covered by this
-licence. They are Apache-2.0 (SigLIP 2) and MIT (OpenAI CLIP); see
-THIRD-PARTY-NOTICES.html and tools/model_notices/ for the full text and
-attribution. THIRD-PARTY-NOTICES.html also lists every Rust dependency and its
-licence, and is shipped with the installer.
